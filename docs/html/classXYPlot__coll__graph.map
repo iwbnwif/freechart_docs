@@ -1,0 +1,6 @@
+<map id="XYPlot" name="XYPlot">
+<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="15,247,86,273"/>
+<area shape="rect" id="node3" href="$classPlot.html" title="Base class for all plots. " alt="" coords="28,171,73,197"/>
+<area shape="rect" id="node4" href="$classAreaDraw.html" title="Base class for drawing area background. " alt="" coords="11,81,91,108"/>
+<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="5,5,96,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TimeSeriesDataset" name="TimeSeriesDataset">
+<area shape="rect" id="node2" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="103,247,190,273"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="113,171,181,197"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="99,5,181,32"/>
+<area shape="rect" id="node6" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="192,81,267,108"/>
+<area shape="rect" id="node8" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="307,5,397,32"/>
+<area shape="rect" id="node9" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="215,247,340,273"/>
+</map>

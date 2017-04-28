@@ -1,0 +1,8 @@
+<map id="Symbol" name="Symbol">
+<area shape="rect" id="node2" href="$classMaskedSymbol.html" title="Symbol class, that uses bitmap mask to draw. " alt="" coords="57,80,169,107"/>
+<area shape="rect" id="node3" href="$classShapeSymbol.html" title="Shape symbols base class. " alt="" coords="193,80,296,107"/>
+<area shape="rect" id="node4" href="$classCircleSymbol.html" title="Circle symbol. " alt="" coords="5,155,105,181"/>
+<area shape="rect" id="node5" href="$classCrossSymbol.html" title="Cross symbol. " alt="" coords="130,155,231,181"/>
+<area shape="rect" id="node6" href="$classSquareSymbol.html" title="Square symbol. " alt="" coords="255,155,362,181"/>
+<area shape="rect" id="node7" href="$classTriangleSymbol.html" title="Triangle symbol. " alt="" coords="386,155,498,181"/>
+</map>

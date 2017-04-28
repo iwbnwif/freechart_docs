@@ -1,0 +1,8 @@
+<map id="AxisPlot" name="AxisPlot">
+<area shape="rect" id="node3" href="$classBubblePlot.html" title="Used to draw bubble charts. " alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node4" href="$classGanttPlot.html" title="Plot to draw gantt charts. " alt="" coords="115,155,192,181"/>
+<area shape="rect" id="node5" href="$classXYPlot.html" title="An plot for displaying XY data values. " alt="" coords="217,155,279,181"/>
+<area shape="rect" id="node2" href="$classPlot.html" title="Base class for all plots. " alt="" coords="131,5,176,32"/>
+<area shape="rect" id="node6" href="$classBarPlot.html" title="Plot for displaying histograms with values at one axis and category names at other. " alt="" coords="166,229,231,256"/>
+<area shape="rect" id="node7" href="$classOHLCPlot.html" title="Open&#45;High&#45;Low&#45;Close plot. " alt="" coords="256,229,339,256"/>
+</map>

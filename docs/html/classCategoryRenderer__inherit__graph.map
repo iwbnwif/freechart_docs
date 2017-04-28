@@ -1,0 +1,5 @@
+<map id="CategoryRenderer" name="CategoryRenderer">
+<area shape="rect" id="node2" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,80,189,107"/>
+<area shape="rect" id="node4" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,5,197,32"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,5,303,32"/>
+</map>

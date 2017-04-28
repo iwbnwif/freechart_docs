@@ -1,0 +1,4 @@
+<map id="PlotObserver" name="PlotObserver">
+<area shape="rect" id="node2" href="$classChart.html" title="Chart. " alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" href="$classMultiPlot.html" title="Multiplot is plot containing one or more plots, called subplots. " alt="" coords="84,80,157,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ChartPanelObserver" name="ChartPanelObserver">
+<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="153,80,223,107"/>
+<area shape="rect" id="node8" href="$classChartPanelMode.html" title="Base class for zoom/pan modes. " alt="" coords="283,80,402,107"/>
+<area shape="rect" id="node11" href="$classCrosshair.html" title="Crosshair class. " alt="" coords="426,80,505,107"/>
+<area shape="rect" id="node3" href="$classBubblePlot.html" title="Used to draw bubble charts. " alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node4" href="$classGanttPlot.html" title="Plot to draw gantt charts. " alt="" coords="115,155,192,181"/>
+<area shape="rect" id="node5" href="$classXYPlot.html" title="An plot for displaying XY data values. " alt="" coords="217,155,279,181"/>
+<area shape="rect" id="node6" href="$classBarPlot.html" title="Plot for displaying histograms with values at one axis and category names at other. " alt="" coords="166,229,231,256"/>
+<area shape="rect" id="node7" href="$classOHLCPlot.html" title="Open&#45;High&#45;Low&#45;Close plot. " alt="" coords="256,229,339,256"/>
+<area shape="rect" id="node9" href="$classPanMode.html" title="Pan moves chart data when user drags mouse. " alt="" coords="304,155,381,181"/>
+<area shape="rect" id="node10" href="$classZoomMode.html" title="ZoomMode" alt="" coords="406,155,493,181"/>
+</map>

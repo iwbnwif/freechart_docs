@@ -1,0 +1,4 @@
+<map id="Plot" name="Plot">
+<area shape="rect" id="node2" href="$classAreaDraw.html" title="Base class for drawing area background. " alt="" coords="11,81,91,108"/>
+<area shape="rect" id="node3" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="5,5,96,32"/>
+</map>

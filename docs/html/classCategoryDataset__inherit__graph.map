@@ -1,0 +1,8 @@
+<map id="CategoryDataset" name="CategoryDataset">
+<area shape="rect" id="node6" href="$classCategorySimpleDataset.html" title="Simple category dataset implementation. " alt="" coords="5,304,167,331"/>
+<area shape="rect" id="node7" href="$classGanttDataset.html" title="Gantt chart dataset base class. " alt="" coords="191,304,291,331"/>
+<area shape="rect" id="node2" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="120,155,207,181"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="129,80,197,107"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="181,5,263,32"/>
+<area shape="rect" id="node8" href="$classGanttSimpleDataset.html" title="Gantt simple dataset. " alt="" coords="171,379,311,405"/>
+</map>

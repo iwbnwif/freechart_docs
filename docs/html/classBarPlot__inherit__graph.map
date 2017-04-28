@@ -1,0 +1,5 @@
+<map id="BarPlot" name="BarPlot">
+<area shape="rect" id="node2" href="$classXYPlot.html" title="An plot for displaying XY data values. " alt="" coords="9,155,72,181"/>
+<area shape="rect" id="node3" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node4" href="$classPlot.html" title="Base class for all plots. " alt="" coords="18,5,63,32"/>
+</map>

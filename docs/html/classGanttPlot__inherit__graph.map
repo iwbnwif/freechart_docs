@@ -1,0 +1,4 @@
+<map id="GanttPlot" name="GanttPlot">
+<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="9,80,79,107"/>
+<area shape="rect" id="node3" href="$classPlot.html" title="Base class for all plots. " alt="" coords="21,5,67,32"/>
+</map>

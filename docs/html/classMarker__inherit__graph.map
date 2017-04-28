@@ -1,0 +1,5 @@
+<map id="Marker" name="Marker">
+<area shape="rect" id="node3" href="$classLineMarker.html" title="Marker that marks single value, and drawn as line. " alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node4" href="$classRangeMarker.html" title="Marker that marks range of data. " alt="" coords="116,155,216,181"/>
+<area shape="rect" id="node2" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="62,5,153,32"/>
+</map>

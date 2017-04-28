@@ -1,0 +1,6 @@
+<map id="OHLCSimpleDataset" name="OHLCSimpleDataset">
+<area shape="rect" id="node2" href="$classOHLCDataset.html" title="Open&#45;High&#45;Low&#45;Close datasets base class. " alt="" coords="123,155,229,181"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="82,80,150,107"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="134,5,215,32"/>
+<area shape="rect" id="node6" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="175,80,300,107"/>
+</map>

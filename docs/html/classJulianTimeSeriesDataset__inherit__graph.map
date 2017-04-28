@@ -1,0 +1,5 @@
+<map id="JulianTimeSeriesDataset" name="JulianTimeSeriesDataset">
+<area shape="rect" id="node2" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="73,155,159,181"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="82,80,150,107"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="134,5,215,32"/>
+</map>
