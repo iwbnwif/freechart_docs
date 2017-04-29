@@ -1,6 +1,7 @@
 <map id="LogarithmicNumberAxis" name="LogarithmicNumberAxis">
-<area shape="rect" id="node2" href="$classNumberAxis.html" title="An axis for displaying and scaling numerical data. " alt="" coords="39,323,133,349"/>
-<area shape="rect" id="node3" href="$classLabelAxis.html" title="Base class for axes for displaying data labels. " alt="" coords="47,247,125,273"/>
-<area shape="rect" id="node4" href="$classAxis.html" title="Base class for all axes. " alt="" coords="62,171,110,197"/>
-<area shape="rect" id="node6" href="$classDatasetArray.html" title="DatasetArray" alt="" coords="110,81,209,108"/>
+<area shape="rect" id="node2" href="$classNumberAxis.html" title="An axis for displaying and scaling numerical data. " alt="" coords="155,323,250,349"/>
+<area shape="rect" id="node3" href="$classLabelAxis.html" title="Base class for axes for displaying data labels. " alt="" coords="163,247,242,273"/>
+<area shape="rect" id="node4" href="$classAxis.html" title="Base class for all axes. " alt="" coords="179,171,227,197"/>
+<area shape="rect" id="node6" href="$classObservable.html" title="Observable\&lt; AxisObserver \&gt;" alt="" coords="107,81,298,108"/>
+<area shape="rect" id="node7" href="$classDatasetArray.html" title="DatasetArray" alt="" coords="323,81,421,108"/>
 </map>

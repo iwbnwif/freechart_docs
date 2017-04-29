@@ -1,6 +1,7 @@
 <map id="OHLCRenderer" name="OHLCRenderer">
-<area shape="rect" id="node2" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,81,189,108"/>
-<area shape="rect" id="node4" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,5,197,32"/>
-<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,5,303,32"/>
-<area shape="rect" id="node6" href="$classOHLCColourer.html" title="Class that controls bars/candlesticks colour. " alt="" coords="214,81,322,108"/>
+<area shape="rect" id="node2" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,157,189,184"/>
+<area shape="rect" id="node4" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,81,197,108"/>
+<area shape="rect" id="node5" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="54,5,250,32"/>
+<area shape="rect" id="node6" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,81,303,108"/>
+<area shape="rect" id="node7" href="$classOHLCColourer.html" title="Class that controls bars/candlesticks colour. " alt="" coords="214,157,322,184"/>
 </map>

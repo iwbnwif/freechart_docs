@@ -1,4 +1,5 @@
 <map id="DateAxis" name="DateAxis">
-<area shape="rect" id="node2" href="$classLabelAxis.html" title="Base class for axes for displaying data labels. " alt="" coords="5,155,84,181"/>
-<area shape="rect" id="node3" href="$classAxis.html" title="Base class for all axes. " alt="" coords="21,80,69,107"/>
+<area shape="rect" id="node2" href="$classLabelAxis.html" title="Base class for axes for displaying data labels. " alt="" coords="83,155,162,181"/>
+<area shape="rect" id="node3" href="$classAxis.html" title="Base class for all axes. " alt="" coords="99,80,147,107"/>
+<area shape="rect" id="node5" href="$classObservable.html" title="Observable\&lt; AxisObserver \&gt;" alt="" coords="107,5,298,32"/>
 </map>

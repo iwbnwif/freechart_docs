@@ -1,17 +1,19 @@
 <map id="XYDataset" name="XYDataset">
-<area shape="rect" id="node5" href="$classCategoryDataset.html" title="Dataset for data values in form [category name, value]. " alt="" coords="431,31,553,57"/>
-<area shape="rect" id="node9" href="$classJulianTimeSeriesDataset.html" title="JulianTimeSeriesDataset" alt="" coords="408,81,576,108"/>
-<area shape="rect" id="node10" href="$classMovingAverage.html" title="Simple moving average indicator. " alt="" coords="436,132,548,159"/>
-<area shape="rect" id="node11" href="$classPolynom.html" title="Polynom function of type: y = c0 * x^n + c1 * x^(n&#45;1) + ... " alt="" coords="455,183,529,209"/>
-<area shape="rect" id="node12" href="$classSineFunction.html" title="Sine function of type: y = a * sin(x) " alt="" coords="443,233,541,260"/>
-<area shape="rect" id="node13" href="$classTimeSeriesDataset.html" title="Time series dataset. " alt="" coords="425,284,559,311"/>
-<area shape="rect" id="node14" href="$classVectorDataset.html" title="Vector implementation of XYDataset. " alt="" coords="439,335,545,361"/>
-<area shape="rect" id="node15" href="$classXYDynamicDataset.html" title="XY dynamic dataset. " alt="" coords="423,385,561,412"/>
-<area shape="rect" id="node16" href="$classXYSimpleDataset.html" title="Simple xy dataset. " alt="" coords="429,436,555,463"/>
-<area shape="rect" id="node17" href="$classXYZDataset.html" title="Dataset with (x,y,z) coordinate data. " alt="" coords="445,487,539,513"/>
-<area shape="rect" id="node2" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="157,259,225,285"/>
-<area shape="rect" id="node4" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="17,284,98,311"/>
-<area shape="rect" id="node6" href="$classCategorySimpleDataset.html" title="Simple category dataset implementation. " alt="" coords="624,5,785,32"/>
-<area shape="rect" id="node7" href="$classGanttDataset.html" title="Gantt chart dataset base class. " alt="" coords="655,56,755,83"/>
-<area shape="rect" id="node8" href="$classGanttSimpleDataset.html" title="Gantt simple dataset. " alt="" coords="833,56,973,83"/>
+<area shape="rect" id="node7" href="$classCategoryDataset.html" title="Dataset for data values in form [category name, value]. " alt="" coords="538,31,659,57"/>
+<area shape="rect" id="node11" href="$classJulianTimeSeriesDataset.html" title="JulianTimeSeriesDataset" alt="" coords="515,81,683,108"/>
+<area shape="rect" id="node12" href="$classMovingAverage.html" title="Simple moving average indicator. " alt="" coords="543,132,655,159"/>
+<area shape="rect" id="node13" href="$classPolynom.html" title="Polynom function of type: y = c0 * x^n + c1 * x^(n&#45;1) + ... " alt="" coords="562,183,635,209"/>
+<area shape="rect" id="node14" href="$classSineFunction.html" title="Sine function of type: y = a * sin(x) " alt="" coords="549,233,648,260"/>
+<area shape="rect" id="node15" href="$classTimeSeriesDataset.html" title="Time series dataset. " alt="" coords="531,284,666,311"/>
+<area shape="rect" id="node16" href="$classVectorDataset.html" title="Vector implementation of XYDataset. " alt="" coords="545,335,652,361"/>
+<area shape="rect" id="node17" href="$classXYDynamicDataset.html" title="XY dynamic dataset. " alt="" coords="529,385,668,412"/>
+<area shape="rect" id="node18" href="$classXYSimpleDataset.html" title="Simple xy dataset. " alt="" coords="535,436,662,463"/>
+<area shape="rect" id="node19" href="$classXYZDataset.html" title="Dataset with (x,y,z) coordinate data. " alt="" coords="551,487,646,513"/>
+<area shape="rect" id="node2" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="264,259,332,285"/>
+<area shape="rect" id="node4" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="70,233,151,260"/>
+<area shape="rect" id="node5" href="$classObservable.html" title="Observable\&lt; DatasetObserver \&gt;" alt="" coords="5,284,216,311"/>
+<area shape="rect" id="node6" href="$classDrawObserver.html" title="Interface to receive DrawObject events. " alt="" coords="57,335,164,361"/>
+<area shape="rect" id="node8" href="$classCategorySimpleDataset.html" title="Simple category dataset implementation. " alt="" coords="731,5,892,32"/>
+<area shape="rect" id="node9" href="$classGanttDataset.html" title="Gantt chart dataset base class. " alt="" coords="761,56,861,83"/>
+<area shape="rect" id="node10" href="$classGanttSimpleDataset.html" title="Gantt simple dataset. " alt="" coords="940,56,1080,83"/>
 </map>

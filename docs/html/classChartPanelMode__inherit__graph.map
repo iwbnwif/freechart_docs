@@ -1,4 +1,5 @@
 <map id="ChartPanelMode" name="ChartPanelMode">
-<area shape="rect" id="node2" href="$classPanMode.html" title="Pan moves chart data when user drags mouse. " alt="" coords="5,80,83,107"/>
-<area shape="rect" id="node3" href="$classZoomMode.html" title="ZoomMode" alt="" coords="107,80,194,107"/>
+<area shape="rect" id="node3" href="$classPanMode.html" title="Pan moves chart data when user drags mouse. " alt="" coords="5,155,83,181"/>
+<area shape="rect" id="node4" href="$classZoomMode.html" title="ZoomMode" alt="" coords="107,155,194,181"/>
+<area shape="rect" id="node2" href="$classChartPanelObserver.html" title="Interface to propagate chart panel mouse events to lower layer classes, for mouse handling objects..." alt="" coords="27,5,167,32"/>
 </map>

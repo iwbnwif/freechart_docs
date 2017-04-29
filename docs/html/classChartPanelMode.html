@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -98,8 +99,17 @@ Inheritance diagram for ChartPanelMode:</div>
 <div class="dyncontent">
 <div class="center"><img src="classChartPanelMode__inherit__graph.png" border="0" usemap="#ChartPanelMode_inherit__map" alt="Inheritance graph"/></div>
 <map name="ChartPanelMode_inherit__map" id="ChartPanelMode_inherit__map">
-<area shape="rect" id="node2" href="classPanMode.html" title="Pan moves chart data when user drags mouse. " alt="" coords="5,80,83,107"/>
-<area shape="rect" id="node3" href="classZoomMode.html" title="ZoomMode" alt="" coords="107,80,194,107"/>
+<area shape="rect" id="node3" href="classPanMode.html" title="Pan moves chart data when user drags mouse. " alt="" coords="5,155,83,181"/>
+<area shape="rect" id="node4" href="classZoomMode.html" title="ZoomMode" alt="" coords="107,155,194,181"/>
+<area shape="rect" id="node2" href="classChartPanelObserver.html" title="Interface to propagate chart panel mouse events to lower layer classes, for mouse handling objects..." alt="" coords="27,5,167,32"/>
+</map>
+<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
+<div class="dynheader">
+Collaboration diagram for ChartPanelMode:</div>
+<div class="dyncontent">
+<div class="center"><img src="classChartPanelMode__coll__graph.png" border="0" usemap="#ChartPanelMode_coll__map" alt="Collaboration graph"/></div>
+<map name="ChartPanelMode_coll__map" id="ChartPanelMode_coll__map">
+<area shape="rect" id="node2" href="classChartPanelObserver.html" title="Interface to propagate chart panel mouse events to lower layer classes, for mouse handling objects..." alt="" coords="5,5,145,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -108,18 +118,37 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:afc7fa650b373dff3657563a48b7cf0b4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afc7fa650b373dff3657563a48b7cf0b4"></a>
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>Init</b> (<a class="el" href="classwxChartPanel.html">wxChartPanel</a> *chartPanel)=0</td></tr>
 <tr class="separator:afc7fa650b373dff3657563a48b7cf0b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_classChartPanelObserver"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classChartPanelObserver')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classChartPanelObserver.html">ChartPanelObserver</a></td></tr>
+<tr class="memitem:a04d04b608b5535863183aa6a4c89e817 inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a04d04b608b5535863183aa6a4c89e817"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartEnterWindow</b> ()</td></tr>
+<tr class="separator:a04d04b608b5535863183aa6a4c89e817 inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58a2434fbd8a15fc571bf974f12bc1c9 inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a58a2434fbd8a15fc571bf974f12bc1c9"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartMouseDown</b> (wxPoint &amp;pt, int key)</td></tr>
+<tr class="separator:a58a2434fbd8a15fc571bf974f12bc1c9 inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb5043963b793481cd755f9e21f1b96e inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="abb5043963b793481cd755f9e21f1b96e"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartMouseUp</b> (wxPoint &amp;pt, int key)</td></tr>
+<tr class="separator:abb5043963b793481cd755f9e21f1b96e inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a719707f9e7ec19699930dbdb297f66fd inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a719707f9e7ec19699930dbdb297f66fd"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartMouseMove</b> (wxPoint &amp;pt)</td></tr>
+<tr class="separator:a719707f9e7ec19699930dbdb297f66fd inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7c482f45e8556b62de4abe0248274d2 inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af7c482f45e8556b62de4abe0248274d2"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartMouseDrag</b> (wxPoint &amp;pt)</td></tr>
+<tr class="separator:af7c482f45e8556b62de4abe0248274d2 inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af25aa7ef99e4ecd3e349502fa54d19e7 inherit pub_methods_classChartPanelObserver"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="af25aa7ef99e4ecd3e349502fa54d19e7"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>ChartMouseWheel</b> (int rotation)</td></tr>
+<tr class="separator:af25aa7ef99e4ecd3e349502fa54d19e7 inherit pub_methods_classChartPanelObserver"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Base class for zoom/pan modes. </p>
 
-<p>Definition at line <a class="el" href="chartpanel_8h_source.html#l00021">21</a> of file <a class="el" href="chartpanel_8h_source.html">chartpanel.h</a>.</p>
+<p>Definition at line <a class="el" href="chartpanel_8h_source.html#l00040">40</a> of file <a class="el" href="chartpanel_8h_source.html">chartpanel.h</a>.</p>
 </div><hr/>The documentation for this class was generated from the following file:<ul>
 <li>include/wx/<a class="el" href="chartpanel_8h_source.html">chartpanel.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Apr 28 2017 00:12:05 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Apr 28 2017 23:26:02 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

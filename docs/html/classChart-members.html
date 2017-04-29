@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -88,8 +89,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <p>This is the complete list of members for <a class="el" href="classChart.html">Chart</a>, including all inherited members.</p>
 <table class="directory">
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>AxisChanged</b>(Axis *axis) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr bgcolor="#f0f0f0"><td class="entry"><b>BoundsChanged</b>(Axis *axis) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>AddObserver</b>(ChartObserver *_observer) (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classChart.html#a9c231dd1498eb027d22676ce0acf20b8">AxisChanged</a>(Axis *axis)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>AxisObserver</b>() (defined in <a class="el" href="classAxisObserver.html">AxisObserver</a>)</td><td class="entry"><a class="el" href="classAxisObserver.html">AxisObserver</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classChart.html#a074dc9e264880d82504a602732bf725d">BoundsChanged</a>(Axis *axis)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classChart.html#ab992c675d363430bdd2478f88e4052ca">Chart</a>(Plot *plot, const wxString &amp;title=wxEmptyString)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
   <tr bgcolor="#f0f0f0"><td class="entry"><b>Chart</b>(Plot *plot, Header *header=NULL, Footer *footer=NULL) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classChart.html#abf5597f5ce9f38184efccaabb919cf68">Draw</a>(ChartDC &amp;dc, wxRect &amp;rc, bool antialias=false)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
@@ -98,7 +101,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <tr bgcolor="#f0f0f0"><td class="entry"><b>GetHorizScrolledAxis</b>() (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classChart.html#ac642eda13315bbf20a53ea6bb33fb9ab">GetPlot</a>()</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr bgcolor="#f0f0f0"><td class="entry"><b>GetVertScrolledAxis</b>() (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>PlotNeedRedraw</b>(Plot *plot) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>Observable</b>() (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>Observer</b> typedef (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>observers</b> (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>OIt</b> (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classChart.html#a51ef92656bf355222ec8abfb7f1ba19d">PlotNeedRedraw</a>(Plot *plot)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>PlotObserver</b>() (defined in <a class="el" href="classPlotObserver.html">PlotObserver</a>)</td><td class="entry"><a class="el" href="classPlotObserver.html">PlotObserver</a></td><td class="entry"></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>RemoveObserver</b>(ChartObserver *_observer) (defined in <a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; ChartObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr><td class="entry"><a class="el" href="classChart.html#accc5e369cad2288f33dd3871d853c587">SetBackground</a>(AreaDraw *background)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>SetChartPanel</b>(wxChartPanel *chartPanel) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
   <tr bgcolor="#f0f0f0"><td class="entry"><b>SetFooter</b>(Footer *footer) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
@@ -106,11 +115,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <tr bgcolor="#f0f0f0"><td class="entry"><b>SetMargin</b>(wxCoord margin) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>SetScrolledAxis</b>(Axis *axis) (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classChart.html#a59c77cb9aae563b69b4df27151f7cd8b">SetTitle</a>(wxString title)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>~Chart</b>() (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>~AxisObserver</b>() (defined in <a class="el" href="classAxisObserver.html">AxisObserver</a>)</td><td class="entry"><a class="el" href="classAxisObserver.html">AxisObserver</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>~Chart</b>() (defined in <a class="el" href="classChart.html">Chart</a>)</td><td class="entry"><a class="el" href="classChart.html">Chart</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>~PlotObserver</b>() (defined in <a class="el" href="classPlotObserver.html">PlotObserver</a>)</td><td class="entry"><a class="el" href="classPlotObserver.html">PlotObserver</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Apr 28 2017 00:12:05 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Apr 28 2017 23:26:02 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

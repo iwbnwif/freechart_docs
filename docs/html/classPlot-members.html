@@ -38,6 +38,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -88,23 +89,30 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <p>This is the complete list of members for <a class="el" href="classPlot.html">Plot</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a7660c31596a157405dcccf563a0f7337">ChartPanelChanged</a>(wxChartPanel *oldPanel, wxChartPanel *newPanel)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classPlot.html#a5f24776917372a3efa7c811736e418af">Draw</a>(ChartDC &amp;cdc, wxRect rc, PlotDrawMode mode=PLOT_DRAW_ALL)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a042b09152454380e9609bd43c9879cfe">DrawBackground</a>(ChartDC &amp;cdc, wxRect rc)=0</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classPlot.html#a174adb08462972c3f1674cc78de99ec9">DrawData</a>(ChartDC &amp;cdc, wxRect rc)=0</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a02195b67e4c4ac6922b7d78c394d53cb">DrawNoDataMessage</a>(wxDC &amp;dc, wxRect rc)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>AddObserver</b>(PlotObserver *_observer) (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classPlot.html#a7660c31596a157405dcccf563a0f7337">ChartPanelChanged</a>(wxChartPanel *oldPanel, wxChartPanel *newPanel)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a5f24776917372a3efa7c811736e418af">Draw</a>(ChartDC &amp;cdc, wxRect rc, PlotDrawMode mode=PLOT_DRAW_ALL)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classPlot.html#a042b09152454380e9609bd43c9879cfe">DrawBackground</a>(ChartDC &amp;cdc, wxRect rc)=0</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a174adb08462972c3f1674cc78de99ec9">DrawData</a>(ChartDC &amp;cdc, wxRect rc)=0</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classPlot.html#a02195b67e4c4ac6922b7d78c394d53cb">DrawNoDataMessage</a>(wxDC &amp;dc, wxRect rc)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>FIRE_WITH_THIS</b>(PlotNeedRedraw) (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
   <tr><td class="entry"><a class="el" href="classPlot.html#aee9a20d908aee35b24a29144674defdb">GetChartPanel</a>()</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classPlot.html#aa80da25a5adba3595e7d66ee9da050cb">HasData</a>()=0</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
   <tr bgcolor="#f0f0f0"><td class="entry"><b>m_background</b> (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>Observable</b>() (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>Observer</b> typedef (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"></td></tr>
+  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>observers</b> (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>OIt</b> (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"></td></tr>
   <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>Plot</b>() (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classPlot.html#a9e76d1bda46384c1efbdc59f7ca0985b">SetBackground</a>(AreaDraw *background)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>SetChartPanel</b>(wxChartPanel *chartPanel) (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classPlot.html#a3aad897a6aaee1eba62e3ccda5278b90">SetTextNoData</a>(const wxString &amp;textNoData)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr bgcolor="#f0f0f0" class="even"><td class="entry"><b>~Plot</b>() (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>RemoveObserver</b>(PlotObserver *_observer) (defined in <a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a>)</td><td class="entry"><a class="el" href="classObservable.html">Observable&lt; PlotObserver &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a9e76d1bda46384c1efbdc59f7ca0985b">SetBackground</a>(AreaDraw *background)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>SetChartPanel</b>(wxChartPanel *chartPanel) (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classPlot.html#a3aad897a6aaee1eba62e3ccda5278b90">SetTextNoData</a>(const wxString &amp;textNoData)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr bgcolor="#f0f0f0"><td class="entry"><b>~Plot</b>() (defined in <a class="el" href="classPlot.html">Plot</a>)</td><td class="entry"><a class="el" href="classPlot.html">Plot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Apr 28 2017 00:12:05 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Apr 28 2017 23:26:02 for wxFreeChart by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

@@ -17,6 +17,8 @@ var searchData=
   ['areadraw',['AreaDraw',['../classAreaDraw.html',1,'']]],
   ['areadrawcollection',['AreaDrawCollection',['../classAreaDrawCollection.html',1,'']]],
   ['axis',['Axis',['../classAxis.html',1,'Axis'],['../classAxis.html#a3c54eea130525c1aa20b3a6dad7b5c99',1,'Axis::Axis()']]],
+  ['axischanged',['AxisChanged',['../classAxisObserver.html#a27dc85bd4629a428e0d3b26a9f7eb4a0',1,'AxisObserver::AxisChanged()'],['../classAxisPlot.html#a343e240f6f8fa5f717c2bdc1dbf15634',1,'AxisPlot::AxisChanged()'],['../classChart.html#a9c231dd1498eb027d22676ce0acf20b8',1,'Chart::AxisChanged()']]],
+  ['axisobserver',['AxisObserver',['../classAxisObserver.html',1,'']]],
   ['axisplot',['AxisPlot',['../classAxisPlot.html',1,'']]],
   ['axisshare',['AxisShare',['../classAxisShare.html',1,'']]]
 ];

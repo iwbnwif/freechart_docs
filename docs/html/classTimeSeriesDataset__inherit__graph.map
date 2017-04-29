@@ -1,6 +1,8 @@
 <map id="TimeSeriesDataset" name="TimeSeriesDataset">
-<area shape="rect" id="node2" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="73,155,159,181"/>
-<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="82,80,150,107"/>
-<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="134,5,215,32"/>
-<area shape="rect" id="node6" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="184,155,309,181"/>
+<area shape="rect" id="node2" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="189,155,275,181"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="198,80,266,107"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="107,5,189,32"/>
+<area shape="rect" id="node6" href="$classObservable.html" title="Observable\&lt; DatasetObserver \&gt;" alt="" coords="212,5,423,32"/>
+<area shape="rect" id="node7" href="$classDrawObserver.html" title="Interface to receive DrawObject events. " alt="" coords="447,5,553,32"/>
+<area shape="rect" id="node8" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="300,155,425,181"/>
 </map>
