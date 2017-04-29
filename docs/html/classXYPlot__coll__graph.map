@@ -1,12 +1,6 @@
 <map id="XYPlot" name="XYPlot">
-<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="324,323,395,349"/>
-<area shape="rect" id="node3" href="$classPlot.html" title="Base class for all plots. " alt="" coords="98,247,143,273"/>
-<area shape="rect" id="node4" href="$classObservable.html" title="Observable\&lt; PlotObserver \&gt;" alt="" coords="5,157,193,184"/>
-<area shape="rect" id="node5" href="$classAreaDraw.html" title="Base class for drawing area background. " alt="" coords="218,157,298,184"/>
-<area shape="rect" id="node6" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="213,81,303,108"/>
-<area shape="rect" id="node7" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="160,5,356,32"/>
-<area shape="rect" id="node8" href="$classDrawObserver.html" title="Interface to receive DrawObject events. " alt="" coords="167,247,274,273"/>
-<area shape="rect" id="node9" href="$classDatasetObserver.html" title="Base class that receives notifications about dataset changes. " alt="" coords="299,247,420,273"/>
-<area shape="rect" id="node10" href="$classAxisObserver.html" title="Interface to receive axis events. " alt="" coords="445,247,546,273"/>
-<area shape="rect" id="node11" href="$classChartPanelObserver.html" title="Interface to propagate chart panel mouse events to lower layer classes, for mouse handling objects..." alt="" coords="571,247,711,273"/>
+<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="15,247,86,273"/>
+<area shape="rect" id="node3" href="$classPlot.html" title="Base class for all plots. " alt="" coords="28,171,73,197"/>
+<area shape="rect" id="node4" href="$classAreaDraw.html" title="Base class for drawing area background. " alt="" coords="11,81,91,108"/>
+<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="5,5,96,32"/>
 </map>

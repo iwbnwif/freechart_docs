@@ -1,4 +1,3 @@
 <map id="Marker" name="Marker">
-<area shape="rect" id="node2" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="58,80,149,107"/>
-<area shape="rect" id="node3" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="5,5,96,32"/>
 </map>

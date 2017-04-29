@@ -1,9 +1,7 @@
 <map id="GanttSimpleDataset" name="GanttSimpleDataset">
-<area shape="rect" id="node2" href="$classGanttDataset.html" title="Gantt chart dataset base class. " alt="" coords="182,304,282,331"/>
-<area shape="rect" id="node3" href="$classCategoryDataset.html" title="Dataset for data values in form [category name, value]. " alt="" coords="171,229,293,256"/>
-<area shape="rect" id="node4" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="189,155,275,181"/>
-<area shape="rect" id="node5" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="198,80,266,107"/>
-<area shape="rect" id="node7" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="107,5,189,32"/>
-<area shape="rect" id="node8" href="$classObservable.html" title="Observable\&lt; DatasetObserver \&gt;" alt="" coords="212,5,423,32"/>
-<area shape="rect" id="node9" href="$classDrawObserver.html" title="Interface to receive DrawObject events. " alt="" coords="447,5,553,32"/>
+<area shape="rect" id="node2" href="$classGanttDataset.html" title="Gantt chart dataset base class. " alt="" coords="66,304,166,331"/>
+<area shape="rect" id="node3" href="$classCategoryDataset.html" title="Dataset for data values in form [category name, value]. " alt="" coords="55,229,177,256"/>
+<area shape="rect" id="node4" href="$classXYDataset.html" title="Base class for XY datasets. " alt="" coords="73,155,159,181"/>
+<area shape="rect" id="node5" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="82,80,150,107"/>
+<area shape="rect" id="node7" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="134,5,215,32"/>
 </map>

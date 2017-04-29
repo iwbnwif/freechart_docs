@@ -1,11 +1,10 @@
 <map id="Plot" name="Plot">
-<area shape="rect" id="node3" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="118,155,189,181"/>
-<area shape="rect" id="node9" href="$classMultiPlot.html" title="Multiplot is plot containing one or more plots, called subplots. " alt="" coords="213,155,286,181"/>
-<area shape="rect" id="node10" href="$classPiePlot.html" title="Pie plot. " alt="" coords="311,155,375,181"/>
-<area shape="rect" id="node2" href="$classObservable.html" title="Observable\&lt; PlotObserver \&gt;" alt="" coords="155,5,343,32"/>
-<area shape="rect" id="node4" href="$classBubblePlot.html" title="Used to draw bubble charts. " alt="" coords="5,229,91,256"/>
-<area shape="rect" id="node5" href="$classGanttPlot.html" title="Plot to draw gantt charts. " alt="" coords="115,229,192,256"/>
-<area shape="rect" id="node6" href="$classXYPlot.html" title="An plot for displaying XY data values. " alt="" coords="217,229,279,256"/>
-<area shape="rect" id="node7" href="$classBarPlot.html" title="Plot for displaying histograms with values at one axis and category names at other. " alt="" coords="166,304,231,331"/>
-<area shape="rect" id="node8" href="$classOHLCPlot.html" title="Open&#45;High&#45;Low&#45;Close plot. " alt="" coords="256,304,339,331"/>
+<area shape="rect" id="node2" href="$classAxisPlot.html" title="Base class for plots that supports axes. " alt="" coords="118,80,189,107"/>
+<area shape="rect" id="node8" href="$classMultiPlot.html" title="Multiplot is plot containing one or more plots, called subplots. " alt="" coords="213,80,286,107"/>
+<area shape="rect" id="node9" href="$classPiePlot.html" title="Pie plot. " alt="" coords="311,80,375,107"/>
+<area shape="rect" id="node3" href="$classBubblePlot.html" title="Used to draw bubble charts. " alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node4" href="$classGanttPlot.html" title="Plot to draw gantt charts. " alt="" coords="115,155,192,181"/>
+<area shape="rect" id="node5" href="$classXYPlot.html" title="An plot for displaying XY data values. " alt="" coords="217,155,279,181"/>
+<area shape="rect" id="node6" href="$classBarPlot.html" title="Plot for displaying histograms with values at one axis and category names at other. " alt="" coords="166,229,231,256"/>
+<area shape="rect" id="node7" href="$classOHLCPlot.html" title="Open&#45;High&#45;Low&#45;Close plot. " alt="" coords="256,229,339,256"/>
 </map>

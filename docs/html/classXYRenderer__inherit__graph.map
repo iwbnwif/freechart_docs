@@ -1,11 +1,10 @@
 <map id="XYRenderer" name="XYRenderer">
-<area shape="rect" id="node7" href="$classXYAreaRenderer.html" title="XYAreaRenderer" alt="" coords="5,304,125,331"/>
-<area shape="rect" id="node8" href="$classXYHistoRenderer.html" title="Renderer for displaying XY data as histograms. " alt="" coords="150,304,274,331"/>
-<area shape="rect" id="node9" href="$classXYLineRendererBase.html" title="XYLineRendererBase" alt="" coords="299,304,445,331"/>
-<area shape="rect" id="node2" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="175,155,249,181"/>
-<area shape="rect" id="node4" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="167,80,257,107"/>
-<area shape="rect" id="node5" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="114,5,310,32"/>
-<area shape="rect" id="node6" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="282,80,363,107"/>
-<area shape="rect" id="node10" href="$classXYLineRenderer.html" title="Renderer for drawing lines from xy datasets. " alt="" coords="236,379,353,405"/>
-<area shape="rect" id="node11" href="$classXYLineStepRenderer.html" title="Renderer for xy datasets, where next x coordinate is always greater than previous. " alt="" coords="377,379,521,405"/>
+<area shape="rect" id="node6" href="$classXYAreaRenderer.html" title="XYAreaRenderer" alt="" coords="5,229,125,256"/>
+<area shape="rect" id="node7" href="$classXYHistoRenderer.html" title="Renderer for displaying XY data as histograms. " alt="" coords="150,229,274,256"/>
+<area shape="rect" id="node8" href="$classXYLineRendererBase.html" title="XYLineRendererBase" alt="" coords="299,229,445,256"/>
+<area shape="rect" id="node2" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="175,80,249,107"/>
+<area shape="rect" id="node4" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="167,5,257,32"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="282,5,363,32"/>
+<area shape="rect" id="node9" href="$classXYLineRenderer.html" title="Renderer for drawing lines from xy datasets. " alt="" coords="236,304,353,331"/>
+<area shape="rect" id="node10" href="$classXYLineStepRenderer.html" title="Renderer for xy datasets, where next x coordinate is always greater than previous. " alt="" coords="377,304,521,331"/>
 </map>

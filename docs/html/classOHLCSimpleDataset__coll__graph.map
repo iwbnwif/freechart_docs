@@ -1,11 +1,8 @@
 <map id="OHLCSimpleDataset" name="OHLCSimpleDataset">
-<area shape="rect" id="node2" href="$classOHLCDataset.html" title="Open&#45;High&#45;Low&#45;Close datasets base class. " alt="" coords="279,323,385,349"/>
-<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="207,247,275,273"/>
-<area shape="rect" id="node8" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,157,189,184"/>
-<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,81,303,108"/>
-<area shape="rect" id="node6" href="$classObservable.html" title="Observable\&lt; DatasetObserver \&gt;" alt="" coords="279,157,489,184"/>
-<area shape="rect" id="node7" href="$classDrawObserver.html" title="Interface to receive DrawObject events. " alt="" coords="513,157,620,184"/>
-<area shape="rect" id="node9" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,81,197,108"/>
-<area shape="rect" id="node10" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="54,5,250,32"/>
-<area shape="rect" id="node11" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="300,247,425,273"/>
+<area shape="rect" id="node2" href="$classOHLCDataset.html" title="Open&#45;High&#45;Low&#45;Close datasets base class. " alt="" coords="185,247,290,273"/>
+<area shape="rect" id="node3" href="$classDataset.html" title="Base class for all datasets (XYDatasets, XYZDatasets, CategoryDatasets, OHLCDatasets, etc). " alt="" coords="113,171,181,197"/>
+<area shape="rect" id="node5" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="99,5,181,32"/>
+<area shape="rect" id="node6" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="192,81,267,108"/>
+<area shape="rect" id="node8" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="307,5,397,32"/>
+<area shape="rect" id="node9" href="$classDateTimeDataset.html" title="Base class for datasets, with date/time. " alt="" coords="205,171,331,197"/>
 </map>

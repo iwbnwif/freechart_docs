@@ -1,7 +1,6 @@
 <map id="OHLCCandlestickRenderer" name="OHLCCandlestickRenderer">
-<area shape="rect" id="node2" href="$classOHLCRenderer.html" title="Base class for rendering OHLC data. " alt="" coords="96,229,208,256"/>
-<area shape="rect" id="node3" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,155,189,181"/>
-<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,80,197,107"/>
-<area shape="rect" id="node6" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="54,5,250,32"/>
-<area shape="rect" id="node7" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,80,303,107"/>
+<area shape="rect" id="node2" href="$classOHLCRenderer.html" title="Base class for rendering OHLC data. " alt="" coords="96,155,208,181"/>
+<area shape="rect" id="node3" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,80,189,107"/>
+<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,5,197,32"/>
+<area shape="rect" id="node6" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,5,303,32"/>
 </map>

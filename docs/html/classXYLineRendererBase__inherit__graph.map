@@ -1,9 +1,8 @@
 <map id="XYLineRendererBase" name="XYLineRendererBase">
-<area shape="rect" id="node8" href="$classXYLineRenderer.html" title="Renderer for drawing lines from xy datasets. " alt="" coords="16,379,133,405"/>
-<area shape="rect" id="node9" href="$classXYLineStepRenderer.html" title="Renderer for xy datasets, where next x coordinate is always greater than previous. " alt="" coords="157,379,301,405"/>
-<area shape="rect" id="node2" href="$classXYRenderer.html" title="Base class for all XYDataset renderers. " alt="" coords="105,229,199,256"/>
-<area shape="rect" id="node3" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,155,189,181"/>
-<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,80,197,107"/>
-<area shape="rect" id="node6" href="$classObservable.html" title="Observable\&lt; DrawObserver \&gt;" alt="" coords="54,5,250,32"/>
-<area shape="rect" id="node7" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,80,303,107"/>
+<area shape="rect" id="node7" href="$classXYLineRenderer.html" title="Renderer for drawing lines from xy datasets. " alt="" coords="16,304,133,331"/>
+<area shape="rect" id="node8" href="$classXYLineStepRenderer.html" title="Renderer for xy datasets, where next x coordinate is always greater than previous. " alt="" coords="157,304,301,331"/>
+<area shape="rect" id="node2" href="$classXYRenderer.html" title="Base class for all XYDataset renderers. " alt="" coords="105,155,199,181"/>
+<area shape="rect" id="node3" href="$classRenderer.html" title="Base class for all renderers. " alt="" coords="115,80,189,107"/>
+<area shape="rect" id="node5" href="$classDrawObject.html" title="Base class for objects drawn on chart or perform drawing of another objects (like renderers..." alt="" coords="107,5,197,32"/>
+<area shape="rect" id="node6" href="$classRefObject.html" title="Object with reference counter. " alt="" coords="222,5,303,32"/>
 </map>
